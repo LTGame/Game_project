@@ -211,3 +211,9 @@ C:\Users\thanhtung\Desktop\MiniProject2_1112378\StructureGame\StructureGame\bin\
 C:\Users\thanhtung\Desktop\MiniProject2_1112378\StructureGame\StructureGame\bin\x86\Debug\Content\music3.wma
 C:\Users\thanhtung\Desktop\MiniProject2_1112378\StructureGame\StructureGame\bin\x86\Debug\Content\coin.xnb
 C:\Users\thanhtung\Desktop\MiniProject2_1112378\StructureGame\StructureGame\bin\x86\Debug\Content\Game\ChiDan.xnb
+C:\Users\thanhtung\Desktop\GameProject2014\StructureGame\StructureGame\obj\x86\Debug\CharacterType1.csprojResolveAssemblyReference.cache
+C:\Users\thanhtung\Desktop\GameProject2014\StructureGame\StructureGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\thanhtung\Desktop\GameProject2014\StructureGame\StructureGame\bin\x86\Debug\StructureGame.exe
+C:\Users\thanhtung\Desktop\GameProject2014\StructureGame\StructureGame\bin\x86\Debug\StructureGame.pdb
+C:\Users\thanhtung\Desktop\GameProject2014\StructureGame\StructureGame\obj\x86\Debug\StructureGame.exe
+C:\Users\thanhtung\Desktop\GameProject2014\StructureGame\StructureGame\obj\x86\Debug\StructureGame.pdb

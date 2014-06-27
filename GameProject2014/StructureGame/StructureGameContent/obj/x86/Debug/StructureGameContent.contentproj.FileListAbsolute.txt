@@ -1,1 +1,2 @@
 C:\Users\thanhtung\Desktop\StructureGame\StructureGame\StructureGameContent\obj\x86\Debug\StructureGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\thanhtung\Desktop\GameProject2014\StructureGame\StructureGameContent\obj\x86\Debug\StructureGameContent.contentprojResolveAssemblyReference.cache

@@ -26,9 +26,6 @@ namespace StructureGame
             this.normal = normal;
             this.hover = hover;
 
-            this.normal.Entity = this;
-            this.hover.Entity = this;
-
             this.click = click;
             this.currentSprite = normal;
             this.depth = depth;
@@ -39,10 +36,6 @@ namespace StructureGame
             this.normal = normal;
             this.hover = hover;
             this.actived = actived;
-
-            this.normal.Entity = this;
-            this.hover.Entity = this;
-            this.actived.Entity = this;
 
             this.click = click;
             this.currentSprite = normal;

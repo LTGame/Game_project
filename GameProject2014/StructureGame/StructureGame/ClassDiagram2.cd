@@ -1,91 +1,91 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="StructureGame.AbstractCamera" Collapsed="true">
-    <Position X="7" Y="1.75" Width="1.5" />
+    <Position X="11.25" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAwAAAAJAEAAAAACAACAAAAAAFASEABAMQAAQCCEA=</HashCode>
       <FileName>AbstractCamera.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.Camera2D" Collapsed="true">
-    <Position X="5.75" Y="3.25" Width="1.5" />
+    <Position X="10" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAEAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
       <FileName>Camera2D.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.ContextEventHandler" Collapsed="true">
-    <Position X="10" Y="2.75" Width="1.5" />
+    <Position X="14.25" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAQAAgAAAAQAAkAAAAAAAAAAAAAABQACAAAAAAA=</HashCode>
       <FileName>ContextEventHandler.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.Dialog" Collapsed="true">
-    <Position X="10" Y="5.75" Width="1.5" />
+    <Position X="14.25" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAgAAAAAAgAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Dialog.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.EventHandler" Collapsed="true">
-    <Position X="10" Y="1.75" Width="1.5" />
+    <Position X="14.25" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAUAAAABCgAAEAQAAkAAAAAABAAAAAQAAQACAAAAAAA=</HashCode>
       <FileName>EventHandler.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.Game1" Collapsed="true">
-    <Position X="17.25" Y="0.5" Width="1.5" />
+    <Position X="21.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAEEAAAAAAAwAAAAAAAAAAAAAAAAgAAAAAAAAAAAQ=</HashCode>
       <FileName>Game1.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.GameManager" Collapsed="true">
-    <Position X="19" Y="0.5" Width="1.5" />
+    <Position X="23.25" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIBAAAAAAABEBAAAAAAAAAAgRVEAAEIACAgAAAiAAQ=</HashCode>
+      <HashCode>AAIAAAAAAAABEAAAAAAAAAAAgBUEAAAAACAgAAACAAQ=</HashCode>
       <FileName>GameManager.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.IdieCamera" Collapsed="true">
-    <Position X="8" Y="3.25" Width="1.5" />
+    <Position X="12.25" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAEAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
       <FileName>IdieCamera.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.Index" Collapsed="true">
-    <Position X="4" Y="6.5" Width="1.5" />
+    <Position X="7" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
       <FileName>Index.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.InvisibleGameEntity" Collapsed="true">
-    <Position X="10.25" Y="0.5" Width="1.5" />
+    <Position X="14.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>InvisibleGameEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.MenuItem" Collapsed="true">
-    <Position X="8" Y="5.75" Width="1.5" />
+    <Position X="12.25" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAACAAAAAAgAAAABAAAgARACIAAAAgA=</HashCode>
       <FileName>MenuItem.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.MouseHelper" Collapsed="true">
-    <Position X="12.5" Y="1.75" Width="1.5" />
+    <Position X="16.75" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AQQAAAAABAgAAAAAGBAEACAAgAAAQAAAgBAAAAAAgAA=</HashCode>
       <FileName>MouseHelper.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.MyTexture" Collapsed="true">
-    <Position X="14" Y="4.75" Width="1.5" />
+    <Position X="18.25" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAEAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAIAAAAABAA=</HashCode>
       <FileName>MyTexture.cs</FileName>
@@ -95,154 +95,126 @@
     </ShowAsAssociation>
   </Class>
   <Class Name="StructureGame.Program" Collapsed="true">
-    <Position X="17.25" Y="1.5" Width="1.5" />
+    <Position X="21.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.Screen" Collapsed="true">
-    <Position X="16.25" Y="4.5" Width="1.5" />
+    <Position X="20.5" Y="4" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQSFAAAApAAAkAAAAAAAAAAAAAQAAAAEAAAAAAAMAA=</HashCode>
+      <HashCode>AAQSFAAAApAAAkAAAAAAAAAAAAAQABAAEAAAAEAAMAA=</HashCode>
       <FileName>Screen.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.Sprite2D" Collapsed="true">
-    <Position X="10.75" Y="4.5" Width="1.5" />
+    <Position X="15" Y="4.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>EAgAgBAAAUAACAAAgAIAAAAAAAABQAAAYEAACAANABo=</HashCode>
+      <HashCode>AAgAgAAAAUAACAAAgAIAAAAAAAABQAAgYEAAKAANABo=</HashCode>
       <FileName>Sprite2D.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.SpriteProvider" Collapsed="true">
-    <Position X="19" Y="1.5" Width="1.5" />
+    <Position X="23.25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAICAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>SpriteProvider.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="StructureGame.Tile" Collapsed="true">
-    <Position X="4" Y="5.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAUCAAAAAAAAAgAAAAAAAAAAAQAAAAEAAAAAAAABAgA=</HashCode>
-      <FileName>Tile.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="StructureGame.VisibleGameEntity" Collapsed="true">
-    <Position X="8" Y="4.5" Width="1.5" />
+    <Position X="12.25" Y="4.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQCAAAAAAAAAgAAAAAAAAAAAAAAAACgARAAIAQAAgA=</HashCode>
       <FileName>VisibleGameEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.MainEntity" Collapsed="true">
-    <Position X="12.75" Y="5.75" Width="1.5" />
+    <Position X="17" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>MainEntity.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.KeyboardHelper" Collapsed="true">
-    <Position X="12.5" Y="2.75" Width="1.5" />
+    <Position X="16.75" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAABAAAAAAQAIACAAAAAJAAQAAAAAAAAQAAAAAA=</HashCode>
       <FileName>KeyboardHelper.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="StructureGame.ObjectSprite2D" Collapsed="true">
-    <Position X="14" Y="3.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABA=</HashCode>
-      <FileName>ObjectSprite2D.cs</FileName>
-    </TypeIdentifier>
-  </Class>
   <Class Name="StructureGame.Interaction">
-    <Position X="15" Y="1.75" Width="1.5" />
+    <Position X="19.25" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Interaction.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.InitHelper" Collapsed="true">
-    <Position X="20.75" Y="1.5" Width="1.5" />
+    <Position X="25" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAACCAAAAAAA=</HashCode>
       <FileName>InitHelper.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.Map" Collapsed="true">
-    <Position X="6" Y="5.75" Width="1.5" />
+    <Position X="10.25" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAEAAAAAAAgAIAABAACACAAAgABAAAAAAAAAAIAA=</HashCode>
       <FileName>Map.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.GameModel">
-    <Position X="19.5" Y="3.75" Width="1.5" />
+    <Position X="23.75" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAIAAIAAAAAA=</HashCode>
       <FileName>GameModel.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.PlantModel">
-    <Position X="18" Y="6.25" Width="1.5" />
+    <Position X="22.25" Y="6.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAQAAAAACAAAAAAEACAAAAAAgAAAAAAAAAAAAAAAEAA=</HashCode>
+      <HashCode>AAQAAAAACAgAAAAEACAAAAAAgAAAAAAAAAAAAAAAEAA=</HashCode>
       <FileName>PlantModel.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.ZombieModel">
-    <Position X="21.25" Y="6.25" Width="1.5" />
+    <Position X="25.5" Y="6.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQQAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAAACA=</HashCode>
       <FileName>ZombieModel.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.Plant" Collapsed="true">
-    <Position X="12" Y="7" Width="1.5" />
-    <NestedTypes>
-      <Enum Name="StructureGame.Plant.PlantState" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>Plant.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Enum>
-    </NestedTypes>
+    <Position X="16.25" Y="7.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>CAQAQAAAACAAAgAAIAAAAAAAAABAAAAAAARAAAAIAAA=</HashCode>
       <FileName>Plant.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.PeaShooter">
-    <Position X="10.75" Y="8.5" Width="1.5" />
+    <Position X="15" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>PeaShooter.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.Zombie" Collapsed="true">
-    <Position X="14.5" Y="7" Width="1.5" />
-    <NestedTypes>
-      <Enum Name="StructureGame.Zombie.ZombieState" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>Zombie.cs</NewMemberFileName>
-        </TypeIdentifier>
-      </Enum>
-    </NestedTypes>
+    <Position X="18.75" Y="7.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAIAAAAAACAAAAQAAAAAAAFAAIAAE=</HashCode>
       <FileName>Zombie.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.NormalZombie">
-    <Position X="13.5" Y="8.5" Width="1.5" />
+    <Position X="17.75" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>NormalZombie.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="StructureGame.Bullet">
-    <Position X="8.25" Y="7" Width="1.5" />
+  <Class Name="StructureGame.Bullet" Collapsed="true">
+    <Position X="12.25" Y="7.25" Width="1.5" />
     <NestedTypes>
       <Enum Name="StructureGame.Bullet.BulletState" Collapsed="true">
         <TypeIdentifier>
@@ -251,22 +223,92 @@
       </Enum>
     </NestedTypes>
     <TypeIdentifier>
-      <HashCode>AAQAAAAAAAQAgAAAIAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <HashCode>AAQAAAAAAAQAggAAIAAAAAAAAAAAAAAAAAAAIAAIAAA=</HashCode>
       <FileName>Bullet.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.PeaBullet">
-    <Position X="8" Y="9.75" Width="1.5" />
+    <Position X="12.25" Y="10" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>PeaBullet.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="StructureGame.BulletModel">
-    <Position X="24" Y="6.25" Width="1.5" />
+    <Position X="28.25" Y="6.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>BulletModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureGame.Stage">
+    <Position X="20.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Stage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureGame.Sun" Collapsed="true">
+    <Position X="10.25" Y="7.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="StructureGame.Sun.SunState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sun.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgQAIAAAAAAAAAAQAAAAAQAAAAAIAAA=</HashCode>
+      <FileName>Sun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureGame.NormalSun">
+    <Position X="10.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NormalSun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureGame.SunModel">
+    <Position X="30.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SunModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureGame.Lawnmower">
+    <Position X="8" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lawnmower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureGame.RedLawnmower">
+    <Position X="8" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RedLawnmower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureGame.Coin">
+    <Position X="5.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureGame.GoldCoin">
+    <Position X="6" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GoldCoin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StructureGame.SilverCoin">
+    <Position X="4" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SilverCoin.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

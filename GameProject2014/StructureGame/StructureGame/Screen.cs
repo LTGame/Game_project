@@ -13,6 +13,8 @@ namespace StructureGame
         protected AbstractCamera camera = new IdieCamera();
         protected Map map = null;
         protected Interaction interaction = null;
+        protected Dictionary<string, Stage> dictStage = new Dictionary<string,Stage>();
+        public Stage currentStage = null;
 
         public Map Map
         {
@@ -75,6 +77,8 @@ namespace StructureGame
                 if (camera != null)
                     camera.Update(gameTime);
             }
+            if (currentStage != null)
+                currentStage.Update(gameTime);
             foreach (VisibleGameEntity entity in list_enity)
             {
                 entity.Update(gameTime);
@@ -96,7 +100,7 @@ namespace StructureGame
                 map.Draw(gameTime, spriteBatch);
 
             if (background != null)
-                background.draw(spriteBatch,0.9f);
+                background.draw(spriteBatch);
         }
 
 

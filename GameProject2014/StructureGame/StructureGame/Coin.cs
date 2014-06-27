@@ -5,7 +5,7 @@ using System.Text;
 
 namespace StructureGame
 {
-    public abstract class MainEntity : VisibleGameEntity
-    {    
+    public abstract class Coin : Dialog
+    {
     }
 }

@@ -7,16 +7,15 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace StructureGame
 {
-    public abstract class Bullet : MainEntity
+    public abstract class Sun : MainEntity
     {
-        public enum BulletState { Fly, Collision }
+        public enum SunState { Falling, Idle, PickUp}
 
-        public BulletState currentState;
-        public float damage;
-        public string idBullet_fly;
-        public string idBullet_collision;
-        public Vector2 posStart;
-        public BulletModel model;
+        public String idSun;
+        public SunState currentState = SunState.Falling;
+        public int energy;
+        public SunModel model;
+        public int Type; //1 = duong cong khi hoa mat troi mat ra, 2 tren troi roi xuong duong thang
 
         public override void Update(GameTime gameTime)
         {

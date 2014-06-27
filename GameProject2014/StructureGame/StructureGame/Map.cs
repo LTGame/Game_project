@@ -13,7 +13,7 @@ namespace StructureGame
         Vector2[,] cells = new Vector2[9, 5]; //9x5 vector2 quy dinh vi tri dat plant, trong tam cua tung o 
 
         MainEntity[,] matrix = new MainEntity[9, 5]; //luu tru doi tuong nao da dat vao day
-        Sprite2D background;
+        Sprite2D background = null;
 
         public override void Update(GameTime gameTime)
         {
