@@ -17,9 +17,20 @@ namespace StructureGame
         public string idBullet_collision;
         public Vector2 posStart;
         public BulletModel model;
+        public Vector2 vectorCollision; //noi va cham, can dc xet luc va cham
+
+        public float maxPath = 200;//doan duong ma dan bay di
+        public float currentPath = 0;
+        public float dx = 1;
+             
 
         public override void Update(GameTime gameTime)
         {
+            currentPath += dx;
+            if (currentPath >= maxPath)
+                ;//lun di cho roi :D vi di qua xa
+            if (currentState == BulletState.Collision && model.finishState())
+                ;//cham nhau roi bien mat di thoi
             if (model != null)
                 model.Update(gameTime);
             base.Update(gameTime);

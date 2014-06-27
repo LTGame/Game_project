@@ -112,6 +112,7 @@
     <Compile Include="BulletModel.cs" />
     <Compile Include="Camera2D.cs" />
     <Compile Include="Coin.cs" />
+    <Compile Include="CoinModel.cs" />
     <Compile Include="ContextEventHandler.cs" />
     <Compile Include="Dialog.cs" />
     <Compile Include="EventHandler.cs" />
@@ -125,6 +126,7 @@
     <Compile Include="KeyboardHelper.cs" />
     <Compile Include="InitHelper.cs" />
     <Compile Include="Lawnmower.cs" />
+    <Compile Include="LawnmowerModel.cs" />
     <Compile Include="MainEntity.cs" />
     <Compile Include="Map.cs" />
     <Compile Include="MenuItem.cs" />

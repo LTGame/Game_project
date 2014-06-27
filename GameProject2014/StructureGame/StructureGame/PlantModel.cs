@@ -47,10 +47,5 @@ namespace StructureGame
             oldState = plant.currentState;
             base.Update(gameTime);
         }
-
-        public bool finishState()
-        {
-            return _mainSpite.Finish;
-        }
     }
 }

@@ -7,5 +7,10 @@ namespace StructureGame
 {
     public class GoldCoin : Coin
     {
+        public GoldCoin()
+        {
+            this.idCoin = "GoldCoin";
+            
+        }
     }
 }

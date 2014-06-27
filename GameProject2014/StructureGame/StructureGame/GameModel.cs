@@ -23,5 +23,10 @@ namespace StructureGame
             if (_mainSpite != null)
                 _mainSpite.draw(spriteBatch);
         }
+
+        public virtual bool finishState()
+        {
+            return _mainSpite.Finish;
+        }
     }
 }
