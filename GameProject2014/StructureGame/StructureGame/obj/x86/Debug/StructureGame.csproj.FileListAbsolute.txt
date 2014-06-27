@@ -1,0 +1,6 @@
+C:\Users\thanhtung\Desktop\StructureGame\StructureGame\StructureGame\obj\x86\Debug\StructureGame.csprojResolveAssemblyReference.cache
+C:\Users\thanhtung\Desktop\StructureGame\StructureGame\StructureGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\thanhtung\Desktop\StructureGame\StructureGame\StructureGame\bin\x86\Debug\StructureGame.exe
+C:\Users\thanhtung\Desktop\StructureGame\StructureGame\StructureGame\bin\x86\Debug\StructureGame.pdb
+C:\Users\thanhtung\Desktop\StructureGame\StructureGame\StructureGame\obj\x86\Debug\StructureGame.exe
+C:\Users\thanhtung\Desktop\StructureGame\StructureGame\StructureGame\obj\x86\Debug\StructureGame.pdb
